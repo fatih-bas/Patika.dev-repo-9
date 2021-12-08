@@ -1,5 +1,5 @@
 # kodluyoruzdokuzuncurepo
-Clock & Greet
+>Clock & Greet
 
 - Html
 - Css
